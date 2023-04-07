@@ -86,11 +86,7 @@ class Bank():
 
             else:
                 pass
-
-
-                
         
-
     def balance_inquiry(self):  # 잔액조회
         
         print("현재 잔액:", self.balance)
